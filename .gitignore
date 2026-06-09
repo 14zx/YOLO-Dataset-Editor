@@ -1,0 +1,25 @@
+# Build artifacts
+/build/
+/dist/
+/portable_dist/
+*.spec
+
+# Frontend
+/web/node_modules/
+/web/dist/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Archives / local bundles
+*.rar
+*.zip
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
